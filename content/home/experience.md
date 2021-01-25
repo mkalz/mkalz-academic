@@ -22,24 +22,29 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Professor of Technology-Enhanced Learning
+    company: Heidelberg University of Education
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Heidelberg, Germany
+    date_start: '2018-04-01'
     date_end: ''
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Director of study program E-Learning and Media Education
+        * Research on TEL
+        * Teaching in MA and Teacher Education
         
-  - title: Professor
-    company: University X
+  - title: Professor of Open Education
+    company: Open University of the Netherlands
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Heerlen, The Netherlands
+    date_start: '2015-04-01'
+    date_end: ''
+    description: |2-
+        Responsibilities include:
+        
+        * Research group leader
+        * Member of the management board of the Welten Institute
+        * Supervision of doctoral students
 ---
