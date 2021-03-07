@@ -3,13 +3,16 @@
 
 title: "Bildungdigital21"
 subtitle: "Future direction for german digital education strategy"
-summary: "Bildung a tag cloud from a political discourse"
+summary: "Producing a fast tagloud from a transcript of a Youtube video"
 authors: ["admin"]
 tags: ["rstats", "NLP", "coding"]
-categories: []
+categories: 
+
+- Codesnippets
+
 date: 2021-03-07T08:05:11+01:00
 lastmod: 2021-03-07T08:05:11+01:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -36,7 +39,8 @@ The German government has organized on the 22nd of February 2021 an online-event
 
 ## Visualizing the discourse
 {{< tweet 1363950810644766728 >}}
-To get a fast overview about the main topics of the discourse I have hacked together 
+To get a fast overview about the main topics of the discourse I have hacked together a short R-script to produce a tagcloud from the most used meaningful words in the discourse.
+
 ```R
 # We first install the Youtubecaption library
 install.packages('youtubecaption')
@@ -59,3 +63,6 @@ meine.dfm.trim <- dfm_trim(meine.dfm, min_docfreq = 1, min_nchar = 3)
 # Visualizing the matrix
 textplot_wordcloud(meine.dfm.trim, min_size = 1, max_size = 2, max_words = 100)
 ```
+This code takes the full transcript from youtube, builds a corpus, removes stopwords and visualizes the most frequent words in the resulting tagloud.
+
+{{< figure src="tagcloud-bildungdigital21.png" caption="Tagcloud from the event" >}}
