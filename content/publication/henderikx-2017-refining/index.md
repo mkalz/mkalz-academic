@@ -31,7 +31,7 @@ tags:
   - intention
 categories: []
 projects:
-  - phd-maartje-henderikx
+  - PhD%20Maartje%20Henderikx
 image:
   caption: ""
   focal_point: ""
