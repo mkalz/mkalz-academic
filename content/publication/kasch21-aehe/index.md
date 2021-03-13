@@ -2,9 +2,21 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "The factor structure of the peer-feedback orientation scale (PFOS): toward a measure for assessing students’ peer- feedback dispositions"
-authors: [Kasch, Julia; Van Rosmalen, Peter; Henderikx, Maartje; Kalz, Marco]
+authors:
+- Julia Kasch
+- Peter van Rosmalen
+- Maartje Henderikx
+- admin
 date: 2021-03-12T21:22:31+01:00
 doi: "https://doi.org/10.1080/02602938.2021.1893650"
+
+# Author notes (optional)
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-03-12T21:22:31+01:00
@@ -58,7 +70,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: [SOONER]
+projects: [-SOONER]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
