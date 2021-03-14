@@ -36,7 +36,7 @@ tags:
   - Dimensionality reduction
   - Feature selection
 categories:
-  - publications
+  - Publications
 projects:
   - PhDMohsinAbbas
 image:
@@ -47,6 +47,6 @@ summary: ""
 lastmod: 2021-02-18T21:51:06+01:00
 publication: "*14th European Conference on Technology-Enhanced Learning*"
 date: 2019-01-01
-publishDate: 2021-02-18T20:51:06.310509Z
+publishDate: 2021-02-18T20:51:06.310Z
 doi: 10.1007/978-3-030-29736-7_30
 ---
