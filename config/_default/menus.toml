@@ -16,27 +16,27 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 30
 
 [[main]]
   name = "Projects"
   url = "#projects"
-  weight = 30
+  weight = 40
 
 [[main]]
   name = "Talks"
   url = "#talks"
-  weight = 40
-
-[[main]]
-  name = "Newsletter"
-  url = "http://news.kalz.cc"
-  weight = 40
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
   weight = 60
+
+[[main]]
+  name = "Newsletter"
+  url = "http://news.kalz.cc"
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
