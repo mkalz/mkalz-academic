@@ -37,7 +37,7 @@ abstract: "This study reports on the quantitative findings of an exploratory seq
 summary: ""
 
 tags: [peer feedback, feedback, factor analysis, scale, scalability]
-categories: []
+categories: [publications]
 featured: true
 
 # Custom links (optional).

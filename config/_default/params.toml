@@ -275,7 +275,9 @@ plugins_js  = []
 ############################
 [cms]
   # See https://wowchemy.com/docs/install/
+  branch = "main"
   netlify_cms = true
+  local_backend = true
 
 ############################
 ## Icon Pack Extensions

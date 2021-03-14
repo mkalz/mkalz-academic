@@ -1,4 +1,10 @@
 ---
+# Generate Wowchemy CMS
+type: wowchemycms
+outputs:
+  - wowchemycms_config
+  - HTML
+
 # Display name
 title: Marco Kalz
 
@@ -14,7 +20,7 @@ organizations:
   url: https://www.ph-heidelberg.de & https://www.ou.nl
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests lis on open education, pervasive technologies and formative assessment to support (lifelong) learning and knowledge construction.
+bio: My research interests is on open education, pervasive technologies and formative assessment to support (lifelong) learning and knowledge construction.
 
 # Interests to show in About widget
 interests:
@@ -74,4 +80,4 @@ Marco Kalz is full professor of technology-enhanced learning at the <a href="htt
 
 Marco is a fellow of the <a href="https://ico-education.nl">Interuniversity Center for Educational Sciences (ICO)</a> and the <a href="http://www.siks.nl">Dutch research school on information and knowledge systems (SIKS)</a>. He is elected president of the <a href="https://www.ea-tel.eu">European Association of Technology-Enhanced Learning (EA-TEL)</a>, director of the study program <a href="https://elmeb.org">E-Learning and Media Education</a> and co-director of the Education for Sustainable Development Center. Over the last 5 years he could secure approx. 2.5 Mio EUR of research funding for his institution. Besides European projects he was and is regularly involved in educational innovation and consulting projects with partners inside and outside of his institutions.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
