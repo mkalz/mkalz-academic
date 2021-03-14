@@ -14,6 +14,11 @@
   weight = 20
 
 [[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 50
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 30
@@ -24,9 +29,9 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 50
+  name = "Newsletter"
+  url = "http://news.kalz.cc"
+  weight = 40
 
 [[main]]
   name = "Contact"
