@@ -38,7 +38,7 @@ tags:
   - academic domain
   - crowd-authoring
 categories:
-  - publications
+  - Publications
 projects: []
 image:
   caption: ""
@@ -49,5 +49,5 @@ lastmod: 2021-02-18T21:50:56+01:00
 publication: "*Information Development*"
 featured: false
 date: 2017-01-01
-publishDate: 2021-02-18T20:50:56.693659Z
+publishDate: 2021-02-18T20:50:56.693Z
 ---
