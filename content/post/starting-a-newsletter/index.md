@@ -1,34 +1,26 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Starting a newsletter"
+title: Starting a newsletter
 subtitle: "The day´s refrain: Musings on digital education"
-summary: ""
-authors: [admin]
-tags: ["sharing", "services"]
-categories:
-- newsletter
-- activities
-- networking
 date: 2021-03-13T06:28:35+01:00
-lastmod: 2021-03-13T06:28:35+01:00
-featured: false
+summary: ""
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+featured: false
+authors:
+  - admin
+lastmod: 2021-03-13T06:28:35+01:00
+tags:
+  - sharing
+  - services
+categories:
+  - newsletter
+  - activities
+  - networking
+projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  preview_only: true
+  filename: featured.png
 ---
 
 I had already longer the plan, to develop a place which is somewhat slower compared to my Twitter account. In addition, I wanted to have a space in which I come back to pieces I mark as interesting but forget in the flow of the days. This is also reason for the title. Pieces which are lingering in your head for longer but then get overwritten by new pieces.
