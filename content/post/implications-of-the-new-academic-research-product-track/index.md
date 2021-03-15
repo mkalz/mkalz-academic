@@ -1,5 +1,5 @@
 ---
-title: Implications of the new Academic Research product track
+title: Implications of the new Twitter Academic Research product track
 subtitle: How to use Twitter for research
 date: 2021-03-15T09:36:59.875Z
 draft: true
