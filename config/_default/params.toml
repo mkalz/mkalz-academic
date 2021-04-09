@@ -107,7 +107,7 @@ directions = "Enter Building and take the left stairs to the third floor."
 office_hours = ["By appointment"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
-# appointment_url = "https://calendly.com"
+appointment_url = "https://calendly.com/mkalz/sprechsstunde-ss2021?month=2021-04"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -208,7 +208,7 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 0
+  engine = 2
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
