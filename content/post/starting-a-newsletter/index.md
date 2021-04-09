@@ -29,8 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-<script defer src="https://cdn.commento.io/js/commento.js"></script>
-<div id="commento"></div>
+
 ---
 
 I had already longer the plan, to develop a place which is somewhat slower compared to my Twitter account. In addition, I wanted to have a space in which I come back to pieces I mark as interesting but forget in the flow of the days. This is also reason for the title. Pieces which are lingering in your head for longer but then get overwritten by new pieces.
@@ -42,3 +41,11 @@ My newsletter will be a collection of short reviews of academic publications, a 
 I will try to publish a newsletter all 2 - 3 weeks. Depending on growth and feedback of my readers I will adapt the style and content. Each edition will be evaluated with a simple evaluation form.
 
 Enough talking: If you think this could add something to your overcrowded inbox, feel free to <a href="http://news.kalz.cc">subscribe here for the newsletter</a>. Alternatively, you can just use the menu-item above to subscribe.
+
+<script src="https://utteranc.es/client.js"
+        repo="https://github.com/mkalz/mkalz-academic"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
