@@ -29,6 +29,8 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
+<script defer src="https://cdn.commento.io/js/commento.js"></script>
+<div id="commento"></div>
 ---
 
 I had already longer the plan, to develop a place which is somewhat slower compared to my Twitter account. In addition, I wanted to have a space in which I come back to pieces I mark as interesting but forget in the flow of the days. This is also reason for the title. Pieces which are lingering in your head for longer but then get overwritten by new pieces.
