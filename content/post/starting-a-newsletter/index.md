@@ -1,23 +1,21 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
-title: "Starting a newsletter"
+title: Starting a newsletter
 subtitle: "The day´s refrain: Musings on digital education"
-summary: ""
-authors: [admin]
-tags: ["sharing", "services"]
-categories:
-- newsletter
-- activities
-- networking
 date: 2021-03-13T06:28:35+01:00
-lastmod: 2021-03-13T06:28:35+01:00
-featured: false
+summary: ""
 draft: false
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+featured: false
+authors:
+  - admin
+lastmod: 2021-03-13T06:28:35+01:00
+tags:
+  - sharing
+  - services
+categories:
+  - newsletter
+  - activities
+  - networking
+projects: []
 image:
   caption: ""
   focal_point: ""
