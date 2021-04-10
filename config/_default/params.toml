@@ -71,7 +71,7 @@ diagram = false
 # Privacy pack
 #   Show a cookie consent message to visitors
 #   Anonymize IP in Google Analytics (if enabled)
-privacy_pack = false
+privacy_pack = true
 
 # Enable visitors to edit pages?
 #   `repo` defines the repository URL. `editable` defines which page types can be edited.
@@ -208,7 +208,8 @@ plugins_js  = []
   #   0: Disabled
   #   1: Disqus (https://disqus.com)
   #   2: Commento (https://commento.io)
-  engine = 2
+  #   3: Utterances (https://utteranc.es/)
+  engine = 3
 
   # Which page types are commentable?
   commentable = {page = true, post = true, docs = true, project = true, publication = true, talk = true}
