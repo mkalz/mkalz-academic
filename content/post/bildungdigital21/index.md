@@ -65,4 +65,4 @@ textplot_wordcloud(meine.dfm.trim, min_size = 1, max_size = 2, max_words = 100)
 ```
 This code takes the full transcript from youtube, builds a corpus, removes stopwords and visualizes the most frequent words in the resulting tagloud.
 
-{{< figure src="tagcloud-bildungdigital21.png" caption="Tagcloud from the event" >}}
+{{< figure src="featured.png" caption="Tagcloud from the event" >}}
